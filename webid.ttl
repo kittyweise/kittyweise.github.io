@@ -12,6 +12,6 @@
    cert:key [ 
        a cert:RSAPublicKey;
        rdfs:label "My Web Id";
-       cert:modulus "<PUBLIC_KEY_MODULUS>"^^xsd:hexBinary;
-       cert:exponent "<PUBLIC_KEY_EXPONENT>"^^xsd:integer ;
+       cert:modulus "c3748a98b73c3ad7f266b132f19cc160a4b638fc6bf3376713283ee7823ea5ab57a1966ecb48557b8fe895baa135826ce3ffe4d6d7fc85d09871a3732b84d85d1720f2939fe75556cc4cc53d91ec93a6df0b3e7fe4018d20999755d30ba2ae8a7db07e66804fccf53fa17fe7661301c0a281dcefd98cfd3651a69bab1fee36d81bb9dcf6ffec559643486faf302ade376a67b2c70b52fe1dc574b6a1df834805ef94597beb8729a73e2386e846f210f87bfec1527e2dfb3fb0ae5b71b3ce31f22785c8f835db15b06a6124571937400f3bd916345ca26cdc41c26ce1de4093b2a0fdcf3f6a0a9b1d9e95b6822e81abc2fbc166c677f2afbf00123767dff0a3"^^xsd:hexBinary;
+       cert:exponent "65537"^^xsd:integer ;
       ] . 
