@@ -9,6 +9,7 @@
 
 <#this> a foaf:Person ;
    foaf:name "Kitty Weise";
+   foaf:img "kittyweise.github.io/me.jpg";
    cert:key [ 
        a cert:RSAPublicKey;
        rdfs:label "My Web Id";
